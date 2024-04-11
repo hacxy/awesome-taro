@@ -59,8 +59,8 @@
 ### Taro 3.2
 
 - [Taro App 开发调试工具及使用示例](https://github.com/wuba/taro-playground)
-- [【58出品】Taro 跨平台 demo，支持 React Native，Weapp，H5](https://github.com/wuba/Taro-Mortgage-Calculator)
-- [瑞克和莫蒂wiki，支持 React Native，Weapp，H5](https://github.com/rick-and-morty-wiki/rick-and-morty-wiki)
+- [【58 出品】Taro 跨平台 demo，支持 React Native，Weapp，H5](https://github.com/wuba/Taro-Mortgage-Calculator)
+- [瑞克和莫蒂 wiki，支持 React Native，Weapp，H5](https://github.com/rick-and-morty-wiki/rick-and-morty-wiki)
 
 ### Taro 3
 
@@ -71,12 +71,12 @@
 - [仿知乎小程序 Vue 版](https://github.com/NervJS/taro-zhihu-sample/tree/vue)
 - [V2ex 小程序（TypeScript） React 版](https://github.com/NervJS/taro-v2ex/tree/next)
 - [V2ex 小程序（TypeScript）Vue 版](https://github.com/NervJS/taro-v2ex/tree/vue)
-- [与微信小程序原生融合的示例（React版）](https://github.com/NervJS/taro-sample-weapp/tree/next)
-- [与微信小程序原生融合的示例（Vue版）](https://github.com/NervJS/taro-sample-weapp/tree/vue)
-- [Taro 示例项目(DVA计数器 | 异步请求 | 腾讯地图): Taro+Dva+Typescript+Immer](https://github.com/didilinkin/tarojs-ts-cli)
-- 💯 [nice-router-taro 脚手架项目，DVA+数据驱动页面+数据驱动表单+数据驱动list](https://github.com/kala888/nice-router-taro)
-- [抖音一键去水印小程序 (Vue版): Taro + 微信云开发](https://github.com/terryso/super9)
-- [彗星密码本 (React版): Taro + 微信云开发](https://github.com/MuxinFeng/taro-savePassword)
+- [与微信小程序原生融合的示例（React 版）](https://github.com/NervJS/taro-sample-weapp/tree/next)
+- [与微信小程序原生融合的示例（Vue 版）](https://github.com/NervJS/taro-sample-weapp/tree/vue)
+- [Taro 示例项目(DVA 计数器 | 异步请求 | 腾讯地图): Taro+Dva+Typescript+Immer](https://github.com/didilinkin/tarojs-ts-cli)
+- 💯 [nice-router-taro 脚手架项目，DVA+数据驱动页面+数据驱动表单+数据驱动 list](https://github.com/kala888/nice-router-taro)
+- [抖音一键去水印小程序 (Vue 版): Taro + 微信云开发](https://github.com/terryso/super9)
+- [彗星密码本 (React 版): Taro + 微信云开发](https://github.com/MuxinFeng/taro-savePassword)
 
 ### Taro 2
 
@@ -89,8 +89,9 @@
 - [V2ex 小程序（TypeScript）](https://github.com/NervJS/taro-v2ex)
 - [与微信小程序原生融合的示例](https://github.com/NervJS/taro-sample-weapp)
 - [记日常小程序 Taro-UI + Rematch + 云开发 + tcb-router](https://github.com/zhixiaoqiang/taroCloud)
-- 💯 [nice-router-taro 脚手架项目，DVA+数据驱动页面+数据驱动表单+数据驱动list](https://github.com/kala888/nice-router-taro/tree/taro2)
+- 💯 [nice-router-taro 脚手架项目，DVA+数据驱动页面+数据驱动表单+数据驱动 list](https://github.com/kala888/nice-router-taro/tree/taro2)
 - [基于`Taro2` + 云开发 打造婚礼邀请函小程序](https://github.com/wforguo/wedding-app)
+
 ### Taro 1
 
 - Taro 端能力示例 [taro-apis-sample](https://github.com/NervJS/taro-apis-sample)
@@ -117,21 +118,22 @@
 - [Taro UI Vue](https://github.com/psaren/taro-ui-vue)
 - [基于 Taro + Taro-ui + Typescript + redux 开发的网易云音乐小程序](https://github.com/lsqy/taro-music/tree/feature_upgrade_taro3.0)
 - [微信小程序每日工作量(vue3 + TS + 云开发)](https://github.com/whyour/mini-work)
-- [TaroForm可视化表单编辑](https://github.com/ShaoGongBra/taro-form)
-- [自媒体UP主团购小程序NiceUp(React + TS + 云开发)](https://github.com/nasawz/niceup)
-- [taro-hooks 为Taro而设计的Hooks Library](https://github.com/innocces/taro-hooks)
-- [Taro HtmlView 支持将简单的html富文本渲染为Taro组件](https://github.com/ShaoGongBra/taro-html-view)
+- [TaroForm 可视化表单编辑](https://github.com/ShaoGongBra/taro-form)
+- [自媒体 UP 主团购小程序 NiceUp(React + TS + 云开发)](https://github.com/nasawz/niceup)
+- [taro-hooks 为 Taro 而设计的 Hooks Library](https://github.com/innocces/taro-hooks)
+- [Taro HtmlView 支持将简单的 html 富文本渲染为 Taro 组件](https://github.com/ShaoGongBra/taro-html-view)
 - [让我们一起手拉手小程序, taro+vue3+ts+pinia,社区、问卷、对话](https://github.com/Everytimeyumi/hand-in-hand/tree/main)
 
 ### Taro2
 
-- 💯 [Hi头像](https://github.com/hi-our/hi-face) 自带[教程小册](https://www.xiaoxili.com/hi-face)
+- 💯 [Hi 头像](https://github.com/hi-our/hi-face) 自带[教程小册](https://www.xiaoxili.com/hi-face)
 - 💯 [基于 Taro2.0 + dva + Taro-ui + immer 开发的电商小程序](https://github.com/jiechud/taro-mall)
 - 💯 [基于 Taro2.0 + TypeScript + 云开发的地图同学录小程序](https://github.com/Mayandev/classmate-map)
 - [基于 Taro + Taro-ui + Typescript + redux 开发的网易云音乐小程序](https://github.com/lsqy/taro-music)
 - [基于 Taro2.0 + dva + Taro-ui + wemark 开发的 markdown 文章博客小程序](https://github.com/hirCodd/JavaNorthMiniApp.git)
 - [基于`Taro2` + 云开发 打造婚礼邀请函小程序](https://github.com/wforguo/wedding-app)
-- 
+-
+
 ### Taro1
 
 - 💯 [首个 Taro 多端统一实例 - 网易严选（小程序 + H5 + React Native）](https://github.com/js-newbee/taro-yanxuan)
@@ -151,11 +153,13 @@
 - [taro-bdmark - 基于 Taro 的百度小程序 md 解析器](https://github.com/guozimo/taro-bdMark)（Taro 1.x）
 - [Mounted - 一款基于 Taro 的小程序组件库](https://github.com/fjc0k/mounted)（Taro 1.x）
 - [taro-axios - 在 Taro 中使用 axios](https://github.com/fjc0k/taro-axios)（Taro 1.x；2.x;3.x）
-- [TaroCreator - 基于Taro UI的小程序可视化设计工具](https://github.com/mpfast/TaroCreator)（Taro 2.x）
+- [TaroCreator - 基于 Taro UI 的小程序可视化设计工具](https://github.com/mpfast/TaroCreator)（Taro 2.x）
 - [taro-luck-draw - 🍧🍧🍧 基于 taro 的【大转盘 / 九宫格】抽奖插件](https://github.com/LuckDraw/taro-luck-draw)（Taro 3.x）
 - [tarojs-router-next - Taro 路由库/自动生成/任意传参/同步的路由方法调用/路由中间件](https://github.com/lblblong/tarojs-router-next)（Taro 3.x）
 - [Taroify UI - 使用 Vant 相同的视觉规范的 Taro 组件库](https://taroify.gitee.io/taroify.com/introduce/)（Taro 3.x）
-- [taro-hooks 为Taro而设计的Hooks Library](https://github.com/innocces/taro-hooks)（Taro 3.x）
-- [taro-visualization Taro 可视化库（charts、3d、Lottie等）](https://github.com/wuba/taro-visualization)（Taro 3.x）
-- [taro-svga Taro 使用svga动画库（资源体积更小、更高效、跨平台），支持weapp、h5 、tt、rn](https://github.com/wukongyang/taro-svga)（Taro 3.x）
+- [taro-hooks 为 Taro 而设计的 Hooks Library](https://github.com/innocces/taro-hooks)（Taro 3.x）
+- [taro-visualization Taro 可视化库（charts、3d、Lottie 等）](https://github.com/wuba/taro-visualization)（Taro 3.x）
+- [taro-svga Taro 使用 svga 动画库（资源体积更小、更高效、跨平台），支持 weapp、h5 、tt、rn](https://github.com/wukongyang/taro-svga)（Taro 3.x）
 - [taro-code-creator Taro 条形码、二维码生成器，全平台支持](https://github.com/wukongyang/taro-code-creator)（Taro 3.x）
+- [taro-plugin-creator - 快捷创建页面的命令行工具](https://github.com/hacxy/taro-plugin-creator) (Taro 3.x)
+- [taro-plugin-auto-path - 自动为 app.config.ts 注册页面路径](https://github.com/hacxy/taro-plugin-auto-path) (Taro 3.x)
